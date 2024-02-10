@@ -1,13 +1,13 @@
 # Hi there, I'm Ihar Katkavets 👋
 
 ## 👨‍💻 Professional Background
-- 💼 I’m currently working as an iOS/tvOS Developer.
+- 💼 I’m currently working as an iOS Developer.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on OTT/IoT/ML/AI projects.
 
 ## 📫 How to Reach Me
-- LinkedIn: https://www.linkedin.com/in/iharkatkavets
-- Skype: https://join.skype.com/invite/cpKHDPyZysUE
+- [LinkedIn](https://www.linkedin.com/in/iharkatkavets)
+- [Skype](https://join.skype.com/invite/cpKHDPyZysUE)
 - Email: job4ihar@gmail.com
 
 ## ⚡ Some facts
