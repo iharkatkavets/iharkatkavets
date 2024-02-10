@@ -1,7 +1,7 @@
 # Hi there, I'm Ihar Katkavets 👋
 
 ## 👨‍💻 Professional Background
-- 💼 I’m currently working as an iOS Developer.
+- 💼 I’m currently working as an iOS Developer (Swift/Objective-C, UIKit/SwiftUI).
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on OTT/IoT/ML/AI projects.
 
