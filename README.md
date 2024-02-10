@@ -11,6 +11,6 @@
 [<img src="email.svg">](mailto:job4ihar@gmail.com?subject=[Job%20Offer]%20Source%20GitHub)
 
 ## ⚡ Some facts
-- I'm a big fan of NeoVim and other open-source command-line tools.
+- I'm a big fan of [Neovim](https://github.com/neovim/neovim) and other open-source command-line tools.
 
 
