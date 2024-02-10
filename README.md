@@ -7,7 +7,7 @@
 
 ## 📫 How to Reach Me
 [<img src="linkedin.svg">](https://www.linkedin.com/in/iharkatkavets/)
-- [Skype](https://join.skype.com/invite/cpKHDPyZysUE)
+[<img src="skype.svg">](https://join.skype.com/invite/cpKHDPyZysUE)
 - Email: job4ihar@gmail.com
 
 ## ⚡ Some facts
