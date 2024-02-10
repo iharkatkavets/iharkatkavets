@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on OTT/IoT/ML/AI projects.
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/iharkatkavets)
+[<img src="linkedin.svg">](https://www.linkedin.com/in/iharkatkavets/)
 - [Skype](https://join.skype.com/invite/cpKHDPyZysUE)
 - Email: job4ihar@gmail.com
 
