@@ -12,7 +12,7 @@
   <img src="linkedin.svg" height="24">
 </a>
 <a href="mailto:job4ihar@gmail.com?subject=[Job%20Offer]%20Source%20GitHub">
-  <img src="email.webp" height="32">
+  <img src="email.svg" height="32">
 </a>
 
 ## ⚡ Some facts
