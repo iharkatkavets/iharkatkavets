@@ -9,10 +9,10 @@
 ## 📫 How to Reach Me
 
 <a href="https://www.linkedin.com/in/iharkatkavets/">
-  <img src="linkedin.svg" height="40">
+  <img src="linkedin.svg" height="24">
 </a>
 <a href="mailto:job4ihar@gmail.com?subject=[Job%20Offer]%20Source%20GitHub">
-  <img src="email.webp" height="40">
+  <img src="email.webp" height="32">
 </a>
 
 ## ⚡ Some facts
